@@ -1,0 +1,183 @@
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\roslyn\csc.exe
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\roslyn\vbc.exe
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\SportsStore.Tests.dll.config
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\SportsStore.Tests.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\SportsStore.Tests.pdb
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\Moq.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\SportsStore.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Helpers.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Mvc.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Razor.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\System.Web.WebPages.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\WebActivatorEx.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Owin.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Optimization.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\Owin.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\EntityFramework.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\Ninject.Web.Common.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\Ninject.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\SportsStore.pdb
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\Moq.xml
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Helpers.xml
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Mvc.xml
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Razor.xml
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\System.Web.WebPages.xml
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Owin.xml
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Optimization.xml
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\EntityFramework.xml
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\Ninject.Web.Common.xml
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\Ninject.xml
+C:\temp\2Test\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\temp\2Test\SportsStore\SportsStore.Tests\obj\Debug\SportsStore.Tests.csprojResolveAssemblyReference.cache
+C:\temp\2Test\SportsStore\SportsStore.Tests\obj\Debug\SportsStore.Tests.dll
+C:\temp\2Test\SportsStore\SportsStore.Tests\obj\Debug\SportsStore.Tests.pdb
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\SportsStore.Tests.dll.config
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\SportsStore.Tests.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\SportsStore.Tests.pdb
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\Moq.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\SportsStore.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\WebActivatorEx.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\Owin.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\Ninject.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\SportsStore.pdb
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\Moq.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\Ninject.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\obj\Debug\SportsStore.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\obj\Debug\SportsStore.Tests.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Oefeningen\09ValidatieAuth\SportsStore\SportsStore.Tests\obj\Debug\SportsStore.Tests.pdb
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\roslyn\csc.exe
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\roslyn\vbc.exe
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\SportsStore.Tests.dll.config
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\SportsStore.Tests.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\SportsStore.Tests.pdb
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\Moq.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\SportsStore.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Helpers.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Mvc.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Razor.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\System.Web.WebPages.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\WebActivatorEx.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Owin.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Optimization.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\Owin.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\EntityFramework.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\Ninject.Web.Common.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\Ninject.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\SportsStore.pdb
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\Moq.xml
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Helpers.xml
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Mvc.xml
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Razor.xml
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\System.Web.WebPages.xml
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Owin.xml
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\System.Web.Optimization.xml
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\EntityFramework.xml
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\Ninject.Web.Common.xml
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\Ninject.xml
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\obj\Debug\SportsStore.Tests.csprojResolveAssemblyReference.cache
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\obj\Debug\SportsStore.Tests.dll
+C:\temp\2Test\SportsStoreH9Completed\SportsStore\SportsStore.Tests\obj\Debug\SportsStore.Tests.pdb

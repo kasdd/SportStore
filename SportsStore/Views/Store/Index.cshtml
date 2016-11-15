@@ -1,0 +1,34 @@
+﻿@model IEnumerable<SportsStore.Models.Domain.Product>
+
+@{
+    ViewBag.Title = "SportsStore : The Store";
+    ViewBag.Active = "Store";
+}
+
+<h2>The Store</h2>
+
+@foreach (var product in Model)
+{
+            <div class="col-md-4 col-sm-1">
+                 <img src="/Content/Images/placeholder.gif" class="productimg" alt="productphoto" class="img-rounded"/>
+                   <h4>@product.Name</h4>
+                   <p>@product.Description</p>
+                  <h5>@product.Price.ToString("c")</h5>
+                   @using (Html.BeginForm("Add", "Cart", new { id = product.ProductId }))
+                   {
+                        <div class="form-group">
+                            <label  class="sr-only" for="quantity">Quantity</label>
+                            <input type="number" name="quantity" value="1" class="input-medium" /> 
+                         </div>
+                        <button type="submit" class="btn btn-default">
+                                 <span class="glyphicon glyphicon-shopping-cart"></span> Add to cart
+                        </button>
+                   }
+                <br/>
+            </div>
+          }
+
+
+
+
+
